@@ -22,7 +22,7 @@ Here is the dataset  - https://github.com/zahidshaikh10101/Uber_data_Analysis/bl
 
 More info about dataset can be found here:
 
-Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page<br>
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf or https://github.com/zahidshaikh10101/Uber_data_Analysis/blob/main/data_dictionary_trip_records_yellow.pdf
 
 # Data Model 
